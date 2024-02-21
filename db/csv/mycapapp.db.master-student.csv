@@ -1,6 +1,0 @@
-studentId,name,gender,rollNo,city,class_id,isCovidContainment,houseNo,landmark,country_code
-111,anubhav,M,11207,gurgaon,10,false,785,MG Road,IN
-112,ananya,F,11208,delhi,10,false,786,Richmond Road,IN
-113,sofia,F,11308,nagpur,12,false,12,Deiter Hopp Alle,DE
-114,srini,M,11309,bangalore,12,true,785,Rot Street,SF
-115,riyaz,M,11305,kerela,13,false,125,Time Square,US
